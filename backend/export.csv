@@ -1,0 +1,11 @@
+id,nama,tanggal_lahir,tanggal_kunjungan,diagnosis,tindakan,dokter
+1,orang ketiga,2000-08-19,2025-08-19,panas,"istirahat cukup, makan teratur",dr. orang
+2,orang pertama,2000-08-19,2025-08-18,panas,"istirahat cukup, makan teratur",dr. orang
+3,[impor] satu,2000-08-19,2025-08-10,"demam, batuk-batuk","istirahat cukup, makan teratur",dr. orang
+4,[impor] dua,2000-08-19,2025-08-10,asam lambung,"istirahat cukup, makan teratur",dr. orang
+5,[impor] tiga,2000-08-19,2025-08-12,ambeien,"istirahat cukup, makan teratur",dr. orang
+6,[impor] dua,2000-08-19,2025-08-12,asam lambung,"istirahat cukup, makan teratur",dr. orang
+7,[impor] empat,2000-08-19,2025-08-13,asam urat,"istirahat cukup, makan teratur",dr. orang
+8,[impor] lima,2000-08-19,2025-08-14,"pilek, demam","istirahat cukup, makan teratur",dr. orang
+9,[impor] dua,2000-08-19,2025-08-17,asam lambung,"istirahat cukup, makan teratur",dr. orang
+10,string,2025-08-19,2025-08-19,string,string,string

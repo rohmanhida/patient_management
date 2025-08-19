@@ -1,0 +1,12 @@
+import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
+
+const auth = getAuth();
+const userCredential = await signInWithEmailAndPassword(auth, email, password);
+const idToken = await userCredential.user.getIdToken();
+
+import { useAuthStore } from '@/lib/auth';
+
+function handleLogout() {
+  useAuthStore.getState().clearToken(); // Clear JWT
+  // Redirect to login page
+}
